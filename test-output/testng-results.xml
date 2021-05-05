@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-21T17:16:59 ICT" name="Default suite" finished-at="2021-02-21T17:17:26 ICT" duration-ms="26184">
+    <groups>
+    </groups>
+    <test started-at="2021-02-21T17:16:59 ICT" name="Default test" finished-at="2021-02-21T17:17:26 ICT" duration-ms="26184">
+      <class name="test.TestNG.TestNG_Cart">
+        <test-method is-config="true" signature="suiteSetUp()[pri:0, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:16:59 ICT" name="suiteSetUp" finished-at="2021-02-21T17:17:01 ICT" duration-ms="1889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetUp -->
+        <test-method signature="launchWebsite()[pri:1, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:01 ICT" name="launchWebsite" description="Open Login page" finished-at="2021-02-21T17:17:02 ICT" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="fillToLogin()[pri:2, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:02 ICT" name="fillToLogin" description="Fill to Login" finished-at="2021-02-21T17:17:04 ICT" duration-ms="1187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillToLogin -->
+        <test-method signature="doLogin()[pri:3, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:04 ICT" name="doLogin" description="Click btn Login" finished-at="2021-02-21T17:17:06 ICT" duration-ms="2032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method signature="clickToCollections()[pri:4, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:06 ICT" name="clickToCollections" description="Click to Menu" finished-at="2021-02-21T17:17:07 ICT" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToCollections -->
+        <test-method signature="testBuyNow()[pri:5, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:07 ICT" name="testBuyNow" description="click to Product random" finished-at="2021-02-21T17:17:08 ICT" duration-ms="1248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBuyNow -->
+        <test-method signature="clickToChange()[pri:6, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:08 ICT" name="clickToChange" description="Tang giam" finished-at="2021-02-21T17:17:13 ICT" duration-ms="5149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToChange -->
+        <test-method signature="clickToCart()[pri:7, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:13 ICT" name="clickToCart" description="delete All" finished-at="2021-02-21T17:17:14 ICT" duration-ms="1131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToCart -->
+        <test-method signature="bachtoMenu()[pri:8, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:14 ICT" name="bachtoMenu" description="Click to Menu" finished-at="2021-02-21T17:17:16 ICT" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bachtoMenu -->
+        <test-method signature="clickAgain()[pri:9, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:16 ICT" name="clickAgain" description="click to Product random" finished-at="2021-02-21T17:17:22 ICT" duration-ms="6574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAgain -->
+        <test-method signature="clickBtnPay()[pri:10, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:22 ICT" name="clickBtnPay" description="Click btn Pay" finished-at="2021-02-21T17:17:22 ICT" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBtnPay -->
+        <test-method signature="filltoBill()[pri:11, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:22 ICT" name="filltoBill" description="FilltoBill" finished-at="2021-02-21T17:17:24 ICT" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filltoBill -->
+        <test-method signature="clickbtnConfirm()[pri:12, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:24 ICT" name="clickbtnConfirm" description="click btn Confirm" finished-at="2021-02-21T17:17:25 ICT" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickbtnConfirm -->
+        <test-method is-config="true" signature="out()[pri:0, instance:test.TestNG.TestNG_Cart@1fb700ee]" started-at="2021-02-21T17:17:25 ICT" name="out" finished-at="2021-02-21T17:17:26 ICT" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- out -->
+      </class> <!-- test.TestNG.TestNG_Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

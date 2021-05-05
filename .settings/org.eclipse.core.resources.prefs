@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/controller/GioHangServlet.java=UTF-8
+encoding//src/controller/UpdateSPServlet.java=UTF-8
+encoding//src/model/SanPhamModel.java=UTF-8
+encoding//src/test/TestNG/TestNG_AddProductInCart.java=UTF-8
+encoding//src/test/TestNG/TestNG_Cart.java=UTF-8
+encoding//src/test/TestNG/TestNG_Login.java=UTF-8
+encoding//src/test/TestNG/TestNG_PayBill.java=UTF-8
